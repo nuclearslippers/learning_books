@@ -34,6 +34,11 @@
 - [JSON路径查找工具](https://www.findjsonpath.com/zh)
     > 输入一个JSON，通过可视化的方式来查看需要的值怎么调用。
 
+- [在线矢量图绘制工具](https://www.hyvector.com/)
+    > 在线绘制矢量图，支持简单形状，线，文字，插入图片。功能其实比较粗糙。
+
+- [极简风简历制作，基于YAML](https://github.com/yamlresume/yamlresume)
+    > 基于YAML文件的简历生成工具，方便版本迭代。但是目前支持的模版太少，就是一个极简的模版，不过比较符合我的审美。
 
 ---
 
@@ -43,6 +48,8 @@
     > 这是一个开源的数字人项目，允许用户创建和定制自己的虚拟助手。
 - [听声音防晕车](https://github.com/BHznJNs/MotionEaseTune)
     > 听1分钟特殊声音就能够预防晕车。
+- [AI声音克隆](https://aivoicecloning.io/)
+    > 语音克隆，每月有大约20分钟免费时长。
 
 
 ## 项目文档
@@ -51,3 +58,10 @@
     > 将YOLOv8-pose部署到算能平台
 - [算能平台API](https://doc.sophgo.com/sdk-docs/v23.05.01/docs_latest_release/docs/sophon-sail/docs/zh/html/2_module.html#sail-python-api)
     > 算能平台python API
+
+
+## 也许有用呢
+- [数学建模智能体](https://github.com/jihe520/MathModelAgent)
+    > 借助AI大模型，一键完成数学建模比赛。包括建模，论文撰写。
+- [爬虫管理WEB工具](https://github.com/jaypyles/Scraperr)
+    > 爬虫管理WEB工具
