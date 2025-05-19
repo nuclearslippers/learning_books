@@ -6,12 +6,19 @@
 
 ## 目录
 
+- [神经网络相关](#神经网络相关)
 - [大模型相关](#大模型相关)
 - [实用工具](#实用工具)
 - [摸鱼库](#摸鱼库)
 - [项目文档](#项目文档)
+- [也许有用呢](#也许有用呢)
 
 ---
+
+## 神经网络相关
+
+- [DP与DDP](https://zhuanlan.zhihu.com/p/356967195)
+    > 介绍DDP和DP的区别，两种并行训练的策略。后面可以写一篇学习博客。
 
 ## 大模型相关
 
@@ -20,6 +27,9 @@
 
 - [VLM-Landingai](https://landing.ai/agentic-object-detection)
     > Landing AI 提供的一个VLM online体验，包括实现目标检测
+
+- [视觉大模型近况总结](https://github.com/zli12321/Vision-Language-Models-Overview)
+    > 一个GITHUB网页，总结了最近视觉大模型的发展情况。包括能力排行，评价数据集，后训练方法等。
 
 ---
 
@@ -39,6 +49,9 @@
 
 - [极简风简历制作，基于YAML](https://github.com/yamlresume/yamlresume)
     > 基于YAML文件的简历生成工具，方便版本迭代。但是目前支持的模版太少，就是一个极简的模版，不过比较符合我的审美。
+
+- [docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop)
+    > 这是一个基于Docker的Ubuntu桌面环境，自带CUDA，配有基本的程序。
 
 ---
 
@@ -65,3 +78,5 @@
     > 借助AI大模型，一键完成数学建模比赛。包括建模，论文撰写。
 - [爬虫管理WEB工具](https://github.com/jaypyles/Scraperr)
     > 爬虫管理WEB工具
+- [docker-ros-desktop-vnc](https://github.com/Tiryoh/docker-ros-desktop-vnc)
+    > ROS docker 桌面镜像
