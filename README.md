@@ -53,6 +53,9 @@
 - [docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop)
     > 这是一个基于Docker的Ubuntu桌面环境，自带CUDA，配有基本的程序。
 
+- [XU5](https://www.xu5.cc/)
+    > 这是一个免费软件网站，包括PS、PR、MATLAB、CAD、JETBRAINS、OFFICE等。
+
 ---
 
 ## 摸鱼库
