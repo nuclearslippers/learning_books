@@ -12,6 +12,7 @@
 - [摸鱼库](#摸鱼库)
 - [项目文档](#项目文档)
 - [也许有用呢](#也许有用呢)
+- [浏览器插件](#浏览器插件)
 
 ---
 
@@ -30,6 +31,9 @@
 
 - [视觉大模型近况总结](https://github.com/zli12321/Vision-Language-Models-Overview)
     > 一个GITHUB网页，总结了最近视觉大模型的发展情况。包括能力排行，评价数据集，后训练方法等。
+
+- [强化学习发展总结，知乎回答](https://zhuanlan.zhihu.com/p/20949520788)
+    > 总结了LLM强化学习算法演进之路：MC->TD->Q-Learning->DQN->PG->AC->TRPO->PPO->DPO->GRPO
 
 ---
 
@@ -80,3 +84,13 @@
     > 爬虫管理WEB工具
 - [docker-ros-desktop-vnc](https://github.com/Tiryoh/docker-ros-desktop-vnc)
     > ROS docker 桌面镜像
+
+## 浏览器插件
+- 翻译工具：沉浸式翻译
+    > 插件名：沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费
+
+    > 功能介绍：翻译插件，保留浏览器原文
+- 论文搜索工具：easyScholar
+    > 插件名：easyScholar
+
+    > 功能介绍：在谷歌学术，IEEE等网页上显示论文的分区，影响因子等。
