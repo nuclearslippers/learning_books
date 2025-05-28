@@ -13,6 +13,7 @@
 - [项目文档](#项目文档)
 - [也许有用呢](#也许有用呢)
 - [浏览器插件](#浏览器插件)
+- [代码学习](#代码学习)
 
 ---
 
@@ -97,3 +98,8 @@
     > 插件名：easyScholar
 
     > 功能介绍：在谷歌学术，IEEE等网页上显示论文的分区，影响因子等。
+
+
+## 代码学习
+- [python学习](https://liaoxuefeng.com/books/python/introduction/index.html)
+    > 廖雪峰的Python教程：装饰器、匿名函数
