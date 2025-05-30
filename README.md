@@ -1,6 +1,7 @@
 # Learning Books
 
-本项目记录一些学习资料。
+本仓库记录各处淘来的资料/工具。
+主要来源：[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 
 ---
 
@@ -61,6 +62,12 @@
 - [XU5](https://www.xu5.cc/)
     > 这是一个免费软件网站，包括PS、PR、MATLAB、CAD、JETBRAINS、OFFICE等。
 
+- [LOGO生成，文字到SVG](https://github.com/JiuRanYa/text-to-svg)
+    > 字体转 SVG 的工具网站，可以用来制作文字 Logo
+
+- [AI图表绘制工具](https://github.com/liujuntao123/smart-mermaid)
+    > 输入文字，AI选择模版，生成表格的Mermaid代码。再使用内置的渲染工具进行渲染。
+
 ---
 
 ## 摸鱼库
@@ -71,6 +78,8 @@
     > 听1分钟特殊声音就能够预防晕车。
 - [AI声音克隆](https://aivoicecloning.io/)
     > 语音克隆，每月有大约20分钟免费时长。
+- [万物博物馆](https://mayeclair.itch.io/museum-of-all-things)
+    > 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
 
 
 ## 项目文档
@@ -98,6 +107,11 @@
     > 插件名：easyScholar
 
     > 功能介绍：在谷歌学术，IEEE等网页上显示论文的分区，影响因子等。
+
+- 画中画工具：DualPiP
+    > 插件名：DualPiP
+
+    > 功能介绍：提供增强版的画中画播放器，支持主流视频网站一键弹出
 
 
 ## 代码学习
