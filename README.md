@@ -1,7 +1,8 @@
 # Learning Books
 
 本仓库记录各处淘来的资料/工具。
-主要来源：[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+
+非常感谢：[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)、[GitHubHunt](https://githubhunt.top/)  
 
 ---
 
@@ -14,7 +15,7 @@
 - [项目文档](#项目文档)
 - [也许有用呢](#也许有用呢)
 - [浏览器插件](#浏览器插件)
-- [代码学习](#代码学习)
+- [博客学习](#博客学习)
 
 ---
 
@@ -68,6 +69,15 @@
 - [AI图表绘制工具](https://github.com/liujuntao123/smart-mermaid)
     > 输入文字，AI选择模版，生成表格的Mermaid代码。再使用内置的渲染工具进行渲染。
 
+- [PDF工具包](https://github.com/Stirling-Tools/Stirling-PDF)
+    > PDF本地工具包，可以进行PDF拆分合并编辑转换等等各种功能。
+
+- [简历制作](https://github.com/posquit0/Awesome-CV)
+    > 这是一个开源的简历生成工具，可以生成各种简历。看到modelscope的管理人员fork过这个。
+
+- [MinerU-PDF转Markdown工具](https://huggingface.co/spaces/opendatalab/MinerU)
+    > 开源PDF识别工具，效果还行。[源码](https://github.com/opendatalab/MinerU)
+
 ---
 
 ## 摸鱼库
@@ -114,6 +124,9 @@
     > 功能介绍：提供增强版的画中画播放器，支持主流视频网站一键弹出
 
 
-## 代码学习
+## 博客学习
 - [python学习](https://liaoxuefeng.com/books/python/introduction/index.html)
     > 廖雪峰的Python教程：装饰器、匿名函数
+
+- [开发时前期业务逻辑](https://www.cnblogs.com/RTower/p/18908689)
+    > 经验分享，讲述了前期业务构建的重要性和项目开发流程。想起了本科课程“软件工程”。
