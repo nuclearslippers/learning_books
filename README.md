@@ -78,6 +78,15 @@
 - [MinerU-PDF转Markdown工具](https://huggingface.co/spaces/opendatalab/MinerU)
     > 开源PDF识别工具，效果还行。[源码](https://github.com/opendatalab/MinerU)
 
+- [Google AI edge gallary](https://github.com/google-ai-edge/gallery)
+    > Google的手机大模型部署APP。
+
+- [AI 洞察日报](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)
+    > 指定信息源，利用AI进行关键词提取，并生成一份日报。
+
+- [PandaWiki](https://pandawiki.docs.baizhi.cloud/)
+    > 搭建自己的知识库，docker实现
+
 ---
 
 ## 摸鱼库
@@ -90,6 +99,8 @@
     > 语音克隆，每月有大约20分钟免费时长。
 - [万物博物馆](https://mayeclair.itch.io/museum-of-all-things)
     > 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
+- [AI换发型](https://lowfade.app/)
+    > 免费、免注册的换发型、发色的AI工具。但是现在发型，颜色的种类还非常少。
 
 
 ## 项目文档
@@ -107,6 +118,12 @@
     > 爬虫管理WEB工具
 - [docker-ros-desktop-vnc](https://github.com/Tiryoh/docker-ros-desktop-vnc)
     > ROS docker 桌面镜像
+- [大学生创新创业项目历届项目](https://cy.urongda.com/)
+    > 网站收录了过去的优秀项目的计划书，PPT。
+- [美国地址生成器](https://www.usaddrgen.com/zh/)
+    > 生成一个虚拟的美国人的各种信息，包括出生、住址、就业、学历等。
+- [Pydoll](https://github.com/autoscrape-labs/pydoll)
+    > 一个Python库，实现脚本操作本机的 Chrome 浏览器。
 
 ## 浏览器插件
 - 翻译工具：沉浸式翻译
