@@ -140,6 +140,11 @@
 
     > 功能介绍：提供增强版的画中画播放器，支持主流视频网站一键弹出
 
+- prompt管理工具：AI Prompt Genuis
+    > 插件名：AI Prompt Genius
+
+    > 功能介绍：管理prompt，AI prompt增强
+
 
 ## 博客学习
 - [python学习](https://liaoxuefeng.com/books/python/introduction/index.html)
