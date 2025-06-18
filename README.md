@@ -143,6 +143,12 @@
     
     > 功能介绍：VS CODE插件。Markdown渲染功能加强，可以类似于GITHUB的渲染效果。
 
+- prompt管理工具：AI Prompt Genuis
+    > 插件名：AI Prompt Genius
+
+    > 功能介绍：浏览器插件。管理prompt，AI prompt增强
+
+
 ## 博客学习
 - [python学习](https://liaoxuefeng.com/books/python/introduction/index.html)
     > 廖雪峰的Python教程：装饰器、匿名函数
