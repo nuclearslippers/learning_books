@@ -125,21 +125,23 @@
 - [Pydoll](https://github.com/autoscrape-labs/pydoll)
     > 一个Python库，实现脚本操作本机的 Chrome 浏览器。
 
-## 浏览器插件
+## 方便的插件
 - 翻译工具：沉浸式翻译
-    > 插件名：沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费
+    > 插件名：沉浸式翻译
 
-    > 功能介绍：翻译插件，保留浏览器原文
+    > 功能介绍：浏览器翻译插件，保留浏览器原文
 - 论文搜索工具：easyScholar
     > 插件名：easyScholar
 
-    > 功能介绍：在谷歌学术，IEEE等网页上显示论文的分区，影响因子等。
-
+    > 功能介绍：浏览器插件。在谷歌学术，IEEE等网页上显示论文的分区，影响因子等。
 - 画中画工具：DualPiP
     > 插件名：DualPiP
 
-    > 功能介绍：提供增强版的画中画播放器，支持主流视频网站一键弹出
-
+    > 功能介绍：浏览器插件。提供增强版的画中画播放器，支持主流视频网站一键弹出
+- MARKDOWN加强
+    > 插件名：markdown-preview-enhanced
+    
+    > 功能介绍：VS CODE插件。Markdown渲染功能加强，可以类似于GITHUB的渲染效果。
 
 ## 博客学习
 - [python学习](https://liaoxuefeng.com/books/python/introduction/index.html)
