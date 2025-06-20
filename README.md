@@ -87,6 +87,18 @@
 - [PandaWiki](https://pandawiki.docs.baizhi.cloud/)
     > 搭建自己的知识库，docker实现
 
+- [cherry studio](https://www.cherry-ai.com/)
+    > 大模型本地软件，部署时实现向网页的接口。
+
+- [PromptPilot](https://promptpilot.volcengine.com/home)
+    > Prompt生成工具，基于AI
+
+- [Thiings](https://www.thiings.co/things)
+    > 这是一个图像库，有近3000个近卡通图标。比较好看，内容也挺丰富。
+
+- [ai-arxiv](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
+    > GITHUB项目。首先爬取当天的arXiv论文，然后用大模型概述。
+
 ---
 
 ## 摸鱼库
@@ -101,6 +113,8 @@
     > 一个跨平台的桌面软件，将维基百科变成一个虚拟博物馆。
 - [AI换发型](https://lowfade.app/)
     > 免费、免注册的换发型、发色的AI工具。但是现在发型，颜色的种类还非常少。
+- [中国地铁图](https://subway.cuvii.dev/)
+    > 用一个网页显示中国各个城市的地铁图，还有些许互动功能。
 
 
 ## 项目文档
@@ -142,7 +156,6 @@
     > 插件名：markdown-preview-enhanced
     
     > 功能介绍：VS CODE插件。Markdown渲染功能加强，可以类似于GITHUB的渲染效果。
-
 - prompt管理工具：AI Prompt Genuis
     > 插件名：AI Prompt Genius
 
