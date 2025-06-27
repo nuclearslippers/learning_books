@@ -99,6 +99,9 @@
 - [ai-arxiv](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
     > GITHUB项目。首先爬取当天的arXiv论文，然后用大模型概述。
 
+- [docker镜像拉取](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
+    > 我们直接docker pull往往会出现网络访问受限的情况，这里作者给出了一种利用GITHUB和ALIYUN来实现国内pull的方法。
+
 ---
 
 ## 摸鱼库
