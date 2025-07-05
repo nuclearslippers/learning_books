@@ -102,6 +102,15 @@
 - [docker镜像拉取](https://mp.weixin.qq.com/s/1kQlYQnKGZg6HVNgmDjQfg)
     > 我们直接docker pull往往会出现网络访问受限的情况，这里作者给出了一种利用GITHUB和ALIYUN来实现国内pull的方法。
 
+- [网络监视器](https://sniffnet.net/)
+    > 一个多平台的网络流监视器软件。
+
+- [ffmpeg-builds](https://github.com/BtbN/FFmpeg-Builds)
+    > ffmpeg的编译版本。作者设置一个GITHUB工作流，每天自动编译各个平台的各种版本的ffmpeg。直接下载就能得到可执行文件。
+
+- [mediatx](https://github.com/bluenviron/mediamtx)
+    > 一个流媒体服务平台，可以将一个简单的流（例如ffmpeg推的rtsp流）进行转发，拟合成一个真实的摄像头流。
+
 ---
 
 ## 摸鱼库
@@ -163,6 +172,16 @@
     > 插件名：AI Prompt Genius
 
     > 功能介绍：浏览器插件。管理prompt，AI prompt增强
+- pixiv增强
+    > 插件名：Pixiv 增强。url:https://greasyfork.org/zh-CN/scripts/34153-pixiv-plus
+
+    > 功能介绍：油猴插件。主要的增强功能包括屏蔽广告，直接显示热门，按照用户ID/作品ID直接搜索，显示图片的尺寸，下载原图GIF等
+- AI自动识别验证码
+    > 插件名：AI自动识别验证码
+
+    > 功能介绍：油猴插件。AI 自动识别网页验证码，支持各大主流厂商，限制视觉模型。不过需要API密钥。
+
+
 
 
 ## 博客学习
