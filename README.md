@@ -115,6 +115,9 @@
 - [opencut视频剪辑](https://github.com/OpenCut-app/OpenCut)
     > 开源的本地视频剪辑工具，可以看作PR的精简？
 
+- [Everything AI增强](https://github.com/MaskerPRC/everything-ai-chat)
+    > 直接用文本来增强使用everything的工具，不过我觉得直接查会不会更方便？
+
 ---
 
 ## 摸鱼库
@@ -135,6 +138,8 @@
     > 显示全球各个城市的温度。并且有热力图。
 - [大模型+二次元MMD](https://github.com/AmyangXYZ/PoPo)
     > 使用自然语言发出指令（"弯腰"、"大笑"等等），控制网页上的 3D 模型（demo是深空之眼，没想到海外也有大眼）
+- [手机博物馆](https://chaz.fun/)
+    > 手机博物馆，旧手机3D模型的网页查看器。
 
 
 ## 项目文档
