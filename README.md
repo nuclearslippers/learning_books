@@ -121,6 +121,12 @@
 - [生成印章字体](https://github.com/shanleiguang/vYinn)
     > 中文古籍电子印章的生成工具。不过看起来，工具链的完整度，封装性还不是很高。
 
+- [命令行DOCX工具](https://github.com/bgreenwell/doxx)
+    > doxx。支持Markdown, CSV, JSON, plain等格式的阅读
+
+- [网页图表制作工具](https://makegraph.app/)
+    > 可以制作柱状图、折线图、饼图、雷达图等。看了一下，还比较美观。支持导出SVG，PNG格式
+
 
 
 ---
@@ -200,6 +206,9 @@
     > 插件名：AI自动识别验证码
 
     > 功能介绍：油猴插件。AI 自动识别网页验证码，支持各大主流厂商，限制视觉模型。不过需要API密钥。
+
+- 10个推荐VSCODE插件
+    > [英文推荐文章](https://www.xda-developers.com/vs-code-extensions-i-cant-live-without/)
 
 
 ## 潜力项目
