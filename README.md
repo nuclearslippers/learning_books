@@ -127,7 +127,11 @@
 - [网页图表制作工具](https://makegraph.app/)
     > 可以制作柱状图、折线图、饼图、雷达图等。看了一下，还比较美观。支持导出SVG，PNG格式
 
+- [Windows 沙盒隔离](https://sandboxie-plus.com/)
+    > 主要功能，将软件隔离在沙盒中运行保护系统、隐私保护、软件多开。名字：Sandboxie
 
+- [AI 图片](https://nanobananaai.com/)
+    > 性能无敌的nanobanana, 不过这个可能时临时的网页接口.之后模型正式发布了可能就没了.
 
 ---
 
