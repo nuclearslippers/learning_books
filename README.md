@@ -17,6 +17,7 @@
 - [浏览器插件](#浏览器插件)
 - [潜力项目](#潜力项目)
 - [博客学习](#博客学习)
+- [NSFW](#nsfw)
 
 ---
 
@@ -133,6 +134,12 @@
 - [AI 图片](https://nanobananaai.com/)
     > 性能无敌的nanobanana, 不过这个可能时临时的网页接口.之后模型正式发布了可能就没了.
 
+- [GITHUB仓库解释](https://deepwiki.com/)
+    > 通过AI解释GITHUB仓库，生成一个网页，解释仓库的功能，使用方法，以及一些关键信息。用了一下，很多库都可以解释。
+
+- [网页生成PDF](https://github.com/plutoprint/plutoprint)
+    > 将网页生成高清PDF
+
 ---
 
 ## 摸鱼库
@@ -228,3 +235,6 @@
 
 - [开发时前期业务逻辑](https://www.cnblogs.com/RTower/p/18908689)
     > 经验分享，讲述了前期业务构建的重要性和项目开发流程。想起了本科课程“软件工程”。
+
+## nsfw
+[跳转](nsfw.md)
