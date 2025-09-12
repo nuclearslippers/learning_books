@@ -140,6 +140,13 @@
 - [网页生成PDF](https://github.com/plutoprint/plutoprint)
     > 将网页生成高清PDF
 
+- [环境管理工具](https://github.com/jdx/mise)
+    > mise 可以管理多种环境，包括python（只适合pip,uv的简单纯python环境），JAVA，GO等
+
+- [网站访问数据统计](https://counterscale.dev/)
+    > 开源的网站访问统计工具。需要Cloudfare帐号
+
+
 ---
 
 ## 摸鱼库
