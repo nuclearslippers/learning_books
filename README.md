@@ -146,6 +146,8 @@
 - [网站访问数据统计](https://counterscale.dev/)
     > 开源的网站访问统计工具。需要Cloudfare帐号
 
+- [AI辅助生成网站](https://github.com/firecrawl/open-lovable)
+    > 用自然语言生成一个网站的UI，似乎还有显示界面。
 
 ---
 
