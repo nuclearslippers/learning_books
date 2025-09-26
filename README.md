@@ -149,6 +149,12 @@
 - [AI辅助生成网站](https://github.com/firecrawl/open-lovable)
     > 用自然语言生成一个网站的UI，似乎还有显示界面。
 
+- [基于WEB的视频编辑工具](https://github.com/x007xyz/flycut-caption/tree/main)
+    > 给视频生成字幕
+
+- [MCP管理工具](https://github.com/whillhill/mcpstore)
+    > 管理MCP服务
+
 ---
 
 ## 摸鱼库
